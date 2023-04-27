@@ -1,0 +1,19 @@
+{
+  "name": "sf_text_filed_",
+  "version": "1.0.0",
+  "description": "text generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUNDAR0630/text_field.git"
+  },
+  "author": "sis_info_sundar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SUNDAR0630/text_field/issues"
+  },
+  "homepage": "https://github.com/SUNDAR0630/text_field#readme"
+}
